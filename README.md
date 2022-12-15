@@ -1,4 +1,4 @@
-# Doppelganger-Game'
+# Doppelganger-Game
 
 
 ## 게임 줄거리
